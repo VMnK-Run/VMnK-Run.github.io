@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yangsen Wang's Homepage"
-description              : "Ph.D Student \n Email: wangyangsen@stu.pku.edu.cn"
+description              : "A first-year Ph.D. Student."
 repository               : "VMnK-Run/VMnK-Run.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/VMnK-Run"
+  github           : "VMnK-Run"
   google_plus      :
   keybase          :
   instagram        :
