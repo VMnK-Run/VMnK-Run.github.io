@@ -34,9 +34,11 @@ Email: wangyangsen@stu.pku.edu.cn
 
 # 📝 Publications 
 
-- [ASE'24] **Mutual Learning-Based Framework for Enhancing Robustness of Code Models via Adversarial Training**  <a href='https://github.com/VMnK-Run/MARVEL'><i class="fab fa-github"></i>[GitHub]</a> (CCF-A)
+- [ASE'24] **Mutual Learning-Based Framework for Enhancing Robustness of Code Models via Adversarial Training** <a href='pdfs/ASE24-MARVEL.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>  <a href='https://github.com/VMnK-Run/MARVEL'><i class="fab fa-github"></i>[GitHub]</a> (CCF-A)
 
   ***Yangsen Wang***, Yizhou Chen, Yifan Zhao, Zhihao Gong, Junjie Chen, and Dan Hao
+  
+  In: *The 39th IEEE/ACM International Conference on Automated Software Engineering,  October 27- November 1, 2024, Sacramento, California, United States*
 
 # 🎖 Honors and Awards
 - 2024.07 Outstanding Graduate Student, Tianjin University
